@@ -18,13 +18,19 @@ We will start by understanding basic concepts:
   
   ![Domain Example](https://miro.medium.com/v2/resize:fit:720/format:webp/1*gTkxpZfbuOaHbBeEl5E6tw.png)
 
+  - [Learn more about domain names](https://mayankavasthi.medium.com/what-is-a-domain-name-and-web-hosting-4dd89d6304e)
+
 - **What is a Web Address or URL?**
   A URL (Uniform Resource Locator) provides information about the location of a website. It functions as a route that guides users to a specific web page.
+
+  - [Learn more about URLs](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL)
 
 ### 2. Introduction to HTML
 
 - **What is HTML?**
   HTML (HyperText Markup Language) is a markup language used to create the structure and content of web pages. It is not a programming language but a way to define the layout and content of a webpage using various elements.
+
+  - [HTML Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 - **Key Concepts:**
   - **HyperText:** Refers to text with links to other pages. Clicking on a hypertext link directs you to a new page.
@@ -39,8 +45,13 @@ We will start by understanding basic concepts:
   - **CoffeeCup HTML Editor**
   - **Notepad**
 
+  - [Visual Studio Code](https://code.visualstudio.com/)
+  - [CoffeeCup HTML Editor](https://www.coffeecup.com/html-editor/)
+
 - **What is an IDE?**
   An Integrated Development Environment (IDE) is a software application that provides comprehensive facilities for software development. It combines features like code editing, building, testing, and packaging to streamline the development process.
+
+  - [Learn more about IDEs](https://aws.amazon.com/what-is/ide/)
 
 ### 4. Course Structure
 
