@@ -57,6 +57,14 @@ We will start by understanding basic concepts:
 
 Each lecture in this course includes a dedicated README file with detailed explanations and concepts covered. These files are located in their respective lecture folders. For example, Lecture01 has its own README file detailing the concepts discussed.
 
+**Assignments Folder:**
+Throughout this course, you will have assignments designed to help you practice and implement the topics covered in each lecture. These assignments are provided in the **Assignments** folder, formatted in Markdown (.MD) files. Each assignment includes detailed instructions and requirements to guide you through practical exercises related to the lecture content.
+
+#### Finding Assignments:
+1. **Navigate to the Assignments Folder:** Look for the folder named `Assignments` in the course repository.
+2. **Locate the Relevant Markdown File:** Inside the folder, you will find Markdown (.MD) files for each lecture. Each file contains instructions for the assignment.
+3. **Complete and Submit Your Work:** Follow the instructions provided in the Markdown files to complete your assignments. Submit your work according to the submission guidelines provided in the course.
+
 ## Credits
 
 This course and its materials were developed by [Yousuf Naveed Khan](https://pk.linkedin.com/in/yousufnaveedkhan). Special thanks to the open-source community and resources that contributed to the development of this course.
